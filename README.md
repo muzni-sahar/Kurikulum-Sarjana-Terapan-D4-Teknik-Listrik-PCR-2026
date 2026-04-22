@@ -1,5 +1,5 @@
 [index1.html](https://github.com/user-attachments/files/26979327/index1.html)
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -287,12 +287,12 @@
           <div class="card profil-card">
             <div class="card-icon"><i class="fas fa-drafting-compass"></i></div>
             <div class="tag">Electrical Systems Designer & Operational Engineer</div>
-            <p>Mampu merencanakan, merancang, dan mengoperasikan sistem tenaga listrik (instalasi, proteksi, otomasi) sesuai standar teknik. Menganalisis, mendiagnosis, mengoptimalkan kinerja sistem secara komprehensif dengan etika, integritas, kepemimpinan, serta solusi inovatif berdaya saing global.</p>
+            <p>Lulusan Sarjana Terapan yang mampu merencanakan, merancang, dan mengoperasikan sistem tenaga listrik meliputi instalasi, proteksi, dan otomasi industri sesuai standar teknik yang berlaku, serta mampu menganalisis, mendiagnosis, dan mengoptimalkan kinerja sistem tenaga listrik secara komprehensif, dengan menjunjung tinggi nilai etika, integritas, profesionalisme, kepemimpinan, dan komunikasi efektif untuk menghasilkan solusi teknik yang inovatif dan berdaya saing global.</p>
           </div>
           <div class="card profil-card">
             <div class="card-icon"><i class="fas fa-microchip"></i></div>
             <div class="tag">Electrical Installation, Automation & Maintenance Engineer</div>
-            <p>Menginstalasi, mengotomasi, dan memelihara sistem tenaga listrik secara sistematis, efektif, efisien. Ahli troubleshooting, optimasi lapangan, menjamin keandalan, keselamatan & keberlanjutan industri. Karakter unggul, inovatif, adaptif.</p>
+            <p>Lulusan Sarjana Terapan yang mampu menginstalasi, mengotomasi, dan memelihara sistem tenaga listrik secara sistematis, efektif, dan efisien sesuai standar teknik yang berlaku, serta mampu melakukan troubleshooting dan optimasi sistem di lapangan untuk menjamin keandalan, keselamatan, dan keberlanjutan operasi sistem tenaga listrik di industri, dengan memiliki karakter unggul, inovatif, dan adaptif.</p>
           </div>
         </div>
       </div>
