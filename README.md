@@ -1,4 +1,4 @@
-[index1.html](https://github.com/user-attachments/files/26979327/index1.html)
+[index2.html](https://github.com/user-attachments/files/26980256/index2.html)
 
 <html lang="id">
 <head>
@@ -287,12 +287,12 @@
           <div class="card profil-card">
             <div class="card-icon"><i class="fas fa-drafting-compass"></i></div>
             <div class="tag">Electrical Systems Designer & Operational Engineer</div>
-            <p>Lulusan Sarjana Terapan yang mampu merencanakan, merancang, dan mengoperasikan sistem tenaga listrik meliputi instalasi, proteksi, dan otomasi industri sesuai standar teknik yang berlaku, serta mampu menganalisis, mendiagnosis, dan mengoptimalkan kinerja sistem tenaga listrik secara komprehensif, dengan menjunjung tinggi nilai etika, integritas, profesionalisme, kepemimpinan, dan komunikasi efektif untuk menghasilkan solusi teknik yang inovatif dan berdaya saing global.</p>
+            <p>Mampu merencanakan, merancang, dan mengoperasikan sistem tenaga listrik (instalasi, proteksi, otomasi) sesuai standar teknik. Menganalisis, mendiagnosis, mengoptimalkan kinerja sistem secara komprehensif dengan etika, integritas, kepemimpinan, serta solusi inovatif berdaya saing global.</p>
           </div>
           <div class="card profil-card">
             <div class="card-icon"><i class="fas fa-microchip"></i></div>
             <div class="tag">Electrical Installation, Automation & Maintenance Engineer</div>
-            <p>Lulusan Sarjana Terapan yang mampu menginstalasi, mengotomasi, dan memelihara sistem tenaga listrik secara sistematis, efektif, dan efisien sesuai standar teknik yang berlaku, serta mampu melakukan troubleshooting dan optimasi sistem di lapangan untuk menjamin keandalan, keselamatan, dan keberlanjutan operasi sistem tenaga listrik di industri, dengan memiliki karakter unggul, inovatif, dan adaptif.</p>
+            <p>Menginstalasi, mengotomasi, dan memelihara sistem tenaga listrik secara sistematis, efektif, efisien. Ahli troubleshooting, optimasi lapangan, menjamin keandalan, keselamatan & keberlanjutan industri. Karakter unggul, inovatif, adaptif.</p>
           </div>
         </div>
       </div>
@@ -307,17 +307,17 @@
           <div class="card">
             <div class="card-icon"><i class="fas fa-chalkboard-user"></i></div>
             <h3>POE 1 – Kompetensi Teknik & Keberlanjutan</h3>
-            <p>Sarjana Terapan yang mampu bekerja sebagai Engineer Profesional Ketenagalistrikan dengan menguasai dan menerapkan prinsip-prinsip teknik ketenagalistrikan yang dilandasi ilmu dasar rekayasa, meliputi perancangan, instalasi, proteksi, otomasi, pemeliharaan, serta pengoperasian sistem tenaga listrik, sesuai standar K3 dan prinsip pembangunan berkelanjutan, serta mampu menghasilkan solusi teknik yang inovatif dan berdaya saing.</p>
+            <p>Menguasai prinsip ketenagalistrikan: perancangan, instalasi, proteksi, otomasi, pemeliharaan, pengoperasian sistem tenaga listrik sesuai K3 & pembangunan berkelanjutan. Menghasilkan solusi teknik inovatif dan berdaya saing.</p>
           </div>
           <div class="card">
             <div class="card-icon"><i class="fas fa-hand-sparkles"></i></div>
             <h3>POE 2 – Etika, Pancasila & Nilai IDEAL</h3>
-            <p>Lulusan yang mampu menjalankan peran sebagai Engineer Profesional Ketenagalistrikan dengan menjunjung tinggi nilai-nilai Pancasila, etika akademik, etika profesi, nilai-nilai IDEAL, jiwa kepemimpinan, tanggung jawab, kerja sama tim, dan komunikasi efektif, serta memiliki karakter unggul, inovatif, dan adaptif dalam mendorong inovasi solusi teknis untuk peningkatan berkelanjutan di bidang ketenagalistrikan.</p>
+            <p>Menjunjung tinggi Pancasila, etika akademik & profesi, nilai IDEAL (Integrity, Dignity, Excellence, Agility, Loyalty). Jiwa kepemimpinan, tanggung jawab, kerja tim, komunikasi efektif, karakter unggul, inovatif & adaptif.</p>
           </div>
           <div class="card">
             <div class="card-icon"><i class="fas fa-globe"></i></div>
             <h3>POE 3 – Daya Saing Global & Teknologi Terkini</h3>
-            <p>Lulusan yang mampu bersaing di tingkat nasional maupun global sebagai Engineer Profesional Ketenagalistrikan dengan kompetensi troubleshooting, optimalisasi, dan pemeliharaan sistem tenaga listrik di lingkungan industri, serta kemampuan mengadopsi dan mengimplementasikan teknologi ketenagalistrikan terkini secara efektif dan efisien untuk menjamin keandalan, keselamatan, dan keberlanjutan operasi sistem tenaga listrik.</p>
+            <p>Bersaing nasional & global: kompetensi troubleshooting, optimalisasi, pemeliharaan sistem tenaga listrik di industri. Mengadopsi teknologi ketenagalistrikan terkini, efektif, efisien, menjamin keandalan & keselamatan operasi.</p>
           </div>
         </div>
       </div>
@@ -329,16 +329,16 @@
         <h2 class="section-title">📚 Capaian Pembelajaran Lulusan (CPL)</h2>
         <div class="section-sub">Kompetensi sikap, pengetahuan, dan keterampilan terapan</div>
         <div class="grid-cards" style="grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));">
-          <div class="card"><i class="fas fa-pray card-icon"></i><h3>CPL 1</h3><p>Bertakwa kepada Tuhan YME, menjunjung nilai kemanusiaan, berkontribusi pada kemajuan bangsa berdasarkan Pancasila, cinta tanah air, menghargai keberagaman, taat hukum, menginternalisasi etika akademik, etika profesi, bertanggung jawab atas pekerjaannya, serta memiliki semangat kemandirian dan kewirausahaan dalam kehidupan bermasyarakat, berbangsa, dan bernegara.</p></div>
-          <div class="card"><i class="fas fa-gem card-icon"></i><h3>CPL 2</h3><p>Memiliki karakter yang menunjukan pemahaman yang kuat pada nilai-nilai IDEAL (Integrity, Dignity, Excellence, Agility, dan Loyalty) yang mencerminkan sikap anti korupsi dan selaras dengan nilai budaya melayu, serta berperilaku sebagai pembelajar mandiri, kreatif dan mampu berpikir kritis.</p></div>
-          <div class="card"><i class="fas fa-comments card-icon"></i><h3>CPL 3</h3><p>Kemampuan berkomunikasi tertulis, lisan, dan grafis secara efektif dan inklusif dengan berbagai komunitas dan lingkungan yang cukup luas, dengan mempertimbangkan perbedaan budaya, bahasa, dan pembelajaran, baik sebagai individu, anggota atau pemimpin yang bekerja dalam tim yang beragam, inklusif, dan multidisiplin dengan berbagai lingkungan kerja.</p></div>
-          <div class="card"><i class="fas fa-drafting-compass card-icon"></i><h3>CPL 4</h3><p>Kemampuan merancang sistem, komponen, ataupun proses sesuai dengan kebutuhan untuk menyelesaikan permasalahan yang telah dikenal secara luas dalam disiplin ilmunya, dengan mempertimbangkan aspek-aspek keselamatan dan kesehatan publik, lingkungan dan menerapkan prinsip pembangunan yang berkelanjutan.</p></div>
-          <div class="card"><i class="fas fa-calculator card-icon"></i><h3>CPL 5</h3><p>Mampu mengidentifikasi dan menerapkan pengetahuan matematika, ilmu pengetahuan alam, komputasi, dasar-dasar rekayasa, dan atau ilmu-ilmu rekayasa khusus sesuai dengan disiplinnya terhadap prosedur, proses, sistem, ataupun metodologi rekayasa terapan yang telah dikenal.</p></div>
-          <div class="card"><i class="fas fa-bolt card-icon"></i><h3>CPL 6</h3><p>Mampu menerapkan pengetahuan ilmu dasar rekayasa ketenagalistrikan untuk menganalisis, memodelkan, dan memecahkan permasalahan teknis pada sistem tenaga listrik secara sistematis, terstandar, dan sesuai dengan prosedur rekayasa terapan yang berlaku di industri.</p></div>
-          <div class="card"><i class="fas fa-microchip card-icon"></i><h3>CPL 7</h3><p>Mampu merancang, menginstalasi, memproteksi, mengotomasi, dan mengoperasikan sistem tenaga listrik secara komprehensif sesuai standar teknik yang berlaku, serta mampu menganalisis dan mengoptimalkan kinerja sistem tenaga listrik untuk menghasilkan solusi teknik yang inovatif, aman, dan berdaya saing di tingkat nasional maupun global, dengan memastikan keselamatan kerja dan keandalan sistem selama siklus operasi berlangsung.</p></div>
-          <div class="card"><i class="fas fa-tools card-icon"></i><h3>CPL 8</h3><p>Mampu melakukan troubleshooting, pemeliharaan, dan optimalisasi sistem tenaga listrik di lingkungan industri secara sistematis, efektif, dan efisien sesuai standar teknik yang berlaku, guna menjamin keandalan, keselamatan, dan keberlanjutan operasi sistem tenaga listrik, serta mampu menerapkan solusi teknis yang tepat di lapangan berdasarkan hasil diagnosis permasalahan nyata.</p></div>
-          <div class="card"><i class="fas fa-chart-line card-icon"></i><h3>CPL 9</h3><p>Mampu mengadopsi, mengevaluasi, dan mengimplementasikan teknologi ketenagalistrikan terkini secara efektif dan efisien di lingkungan industri dengan menilai kelayakan dan kesesuaian teknologi terhadap kebutuhan sistem, serta mampu mengintegrasikan inovasi teknologi ke dalam solusi operasional sistem tenaga listrik yang berkelanjutan dan berdaya saing di tingkat nasional maupun global.</p></div>
-          <div class="card"><i class="fas fa-users card-icon"></i><h3>CPL 10</h3><p>Mampu menjalankan peran sebagai Engineer Profesional Ketenagalistrikan dengan menjunjung tinggi integritas, tanggung jawab profesional, semangat kerja sama tim, dan jiwa kepemimpinan yang efektif, serta mampu mendorong inovasi teknis dan peningkatan berkelanjutan di bidang ketenagalistrikan melalui pendekatan yang etis, kolaboratif, dan berorientasi pada dampak nyata di industri dan masyarakat.</p></div>
+          <div class="card"><i class="fas fa-pray card-icon"></i><h3>CPL 1</h3><p>Bertakwa, Pancasila, cinta tanah air, etika akademik & profesi, tanggung jawab, semangat kemandirian & kewirausahaan.</p></div>
+          <div class="card"><i class="fas fa-gem card-icon"></i><h3>CPL 2</h3><p>Karakter IDEAL (Integrity, Dignity, Excellence, Agility, Loyalty), anti korupsi, budaya melayu, pembelajar mandiri & kritis.</p></div>
+          <div class="card"><i class="fas fa-comments card-icon"></i><h3>CPL 3</h3><p>Komunikasi tertulis, lisan, grafis efektif & inklusif, kerja tim multidisiplin, kepemimpinan beragam.</p></div>
+          <div class="card"><i class="fas fa-drafting-compass card-icon"></i><h3>CPL 4</h3><p>Merancang sistem/komponen/proses sesuai kebutuhan, perhatikan K3, lingkungan & pembangunan berkelanjutan.</p></div>
+          <div class="card"><i class="fas fa-calculator card-icon"></i><h3>CPL 5</h3><p>Mengidentifikasi matematika, IPA, komputasi, rekayasa terapan terhadap prosedur & metodologi yang dikenal.</p></div>
+          <div class="card"><i class="fas fa-bolt card-icon"></i><h3>CPL 6</h3><p>Menganalisis, memodelkan, memecahkan masalah teknis sistem tenaga listrik secara sistematis & terstandar.</p></div>
+          <div class="card"><i class="fas fa-microchip card-icon"></i><h3>CPL 7</h3><p>Merancang, instalasi, proteksi, otomasi, operasi sistem tenaga listrik, optimasi, solusi inovatif & aman, standar global.</p></div>
+          <div class="card"><i class="fas fa-tools card-icon"></i><h3>CPL 8</h3><p>Troubleshooting, pemeliharaan, optimalisasi sistem tenaga listrik di industri, solusi teknis tepat di lapangan.</p></div>
+          <div class="card"><i class="fas fa-chart-line card-icon"></i><h3>CPL 9</h3><p>Mengadopsi, evaluasi, implementasi teknologi ketenagalistrikan terkini, integrasi inovasi ke solusi operasional berkelanjutan.</p></div>
+          <div class="card"><i class="fas fa-users card-icon"></i><h3>CPL 10</h3><p>Menjalankan peran engineer profesional, integritas, tanggung jawab, kerja tim, kepemimpinan, inovasi teknis & peningkatan berkelanjutan.</p></div>
         </div>
       </div>
     </section>
@@ -380,9 +380,8 @@
               <tr><th style="padding: 16px;">Profil Lulusan</th><th style="padding: 16px;">POE Terkait</th><th style="padding: 16px;">CPL Inti</th></tr>
             </thead>
             <tbody>
-            <tr style="border-bottom: 1px solid #e2e8f0;"><td style="padding: 14px;"><b>Profil Lulusan</td><td style="padding: 14px;">POE</td><td style="padding: 14px;">CPL</td></tr>
               <tr style="border-bottom: 1px solid #e2e8f0;"><td style="padding: 14px;"><b>Electrical Systems Designer & Operational Engineer</b><br>Perancang & operator sistem tenaga</td><td style="padding: 14px;">POE 1, POE 2</td><td style="padding: 14px;">CPL 4, CPL 6, CPL 7, CPL 10</td></tr>
-              <tr style="border-bottom: 1px solid #e2e8f0;"><td style="padding: 14px;"><b>Electrical Installation, Automation & Maintenance Engineer</b><br>Instalasi, otomasi, pemeliharaan</td><td style="padding: 14px;">POE 1, POE 3</td><td style="padding: 14px;">CPL 5, CPL 7, CPL 8, CPL 9 </td></tr>
+              <tr style="border-bottom: 1px solid #e2e8f0;"><td style="padding: 14px;"><b>Electrical Installation, Automation & Maintenance Engineer</b><br>Instalasi, otomasi, pemeliharaan</td><td style="padding: 14px;">POE 1, POE 3</td><td style="padding: 14px;">CPL 7, CPL 8, CPL 9, CPL 5</td></tr>
             </tbody>
           </table>
         </div>
